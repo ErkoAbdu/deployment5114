@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sometype+Mono:wght@400;500;700&display=swap');
+.body{
+    font-family: Sometype Mono, sans-serif;
+}
+.site-name{
+    font-family: Sometype Mono, sans-serif;
+    font-weight: 700;
+    color: black;
+    font-size: 30px;
+}
+.about{
+    font-family: Sometype Mono, sans-serif;
+    font-weight: 500;
+    color: red;
+    font-size: 25px;
+}
+.about-me{
+    font-family: Sometype Mono, sans-serif;
+    font-weight: 400;
+    color: orange;
+    font-size: 20px;
+}
+.image1{
+    max-width: 75px;
+    max-height: 75px;
+}
+.image2{
+    max-width: 125px;
+    max-height: 125px;
+}
